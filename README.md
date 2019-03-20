@@ -1,2 +1,2 @@
-# steinernema
-Feasiility Study on production nematodes for IPM
+# Steinernema
+Feasibility Study on production nematodes for IPM
